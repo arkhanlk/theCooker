@@ -2,7 +2,7 @@ import json
 import streamlit as st
 
 # Caminho fixo do seu arquivo
-JSON_PATH = r"D:\.py\AR\AR\data\arcraiders_dump2.json"
+JSON_PATH = r"data/arcraiders_dump2.json"
 
 st.set_page_config(page_title="ARC Raiders Data Viewer", layout="wide")
 
