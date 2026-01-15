@@ -2,7 +2,7 @@ import streamlit as st
 import json
 from collections import defaultdict
 
-JSON_PATH = r"D:\.py\AR\AR\data\arcraiders_items.json"
+JSON_PATH = r"data/arcraiders_items.json"
 
 # ---------------------------------------------------------
 # Carregar JSON limpo
